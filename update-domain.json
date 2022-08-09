@@ -1,0 +1,14 @@
+{
+    "DomainId": "<your-domain-id>",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "conda-efs",
+                    "AppImageConfigName": "conda-efs-env-config"
+                }
+            ]
+        }
+    }
+}
+
